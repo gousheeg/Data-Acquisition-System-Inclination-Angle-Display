@@ -10,4 +10,6 @@
 * Jumper wires
 * Sparkfun ADXL337 Triple Axis Accelerometer
 
-![alt text](20190407_215331.jpg)
+![image](20190407_215331.jpg)
+![image](20190405_154647.jpg)
+![image](
