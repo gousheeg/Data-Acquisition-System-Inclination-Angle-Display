@@ -12,5 +12,5 @@
 
 ![image](20190407_215331.jpg)
 ![image](20190405_154647.jpg)
-![image](Circuit Schematic Single Axis.jpg)
-![image](Circuit Schematic Dual Axis.jpg)
+![image](Circuit Schematic Single Axis-min.jpg)
+![image](Circuit Schematic Dual Axis-min.jpg)
