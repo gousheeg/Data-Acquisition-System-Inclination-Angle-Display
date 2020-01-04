@@ -14,5 +14,7 @@
 ![image](20190405_154647.jpg)
 
 ## Circuit Schematics:
+Data from x axis only:
 ![image](CircuitSingleAxis-min.jpg)
-![image](Circuit Schematic Dual Axis-min.jpg)
+Data from x and y axis:
+![image](CircuitDualAxis-min.jpg)
