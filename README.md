@@ -11,7 +11,9 @@ This was a project for my microprocessors course. The system is based on the Esd
 * Jumper wires
 * Sparkfun ADXL337 Triple Axis Accelerometer
 
+### Circuit in MODE 0 representing angle as Binary Code Decimal:
 ![image](20190407_215331.jpg)
+### Circuit in MODE 1 representing angle in 10 degree increments:
 ![image](20190405_154647.jpg)
 
 ## Circuit Schematics:
