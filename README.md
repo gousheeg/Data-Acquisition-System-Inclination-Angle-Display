@@ -14,5 +14,5 @@
 ![image](20190405_154647.jpg)
 
 ## Circuit Schematics:
-![image](Circuit Schematic Single Axis-min.jpg)
+![image](CircuitSingleAxis-min.jpg)
 ![image](Circuit Schematic Dual Axis-min.jpg)
