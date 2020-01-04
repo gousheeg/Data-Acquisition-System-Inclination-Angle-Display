@@ -17,7 +17,7 @@ This was a project for my microprocessors course. The system is based on the Esd
 ![image](20190405_154647.jpg)
 
 ## Circuit Schematics:
-Data from x axis only:
+##### Data from x axis only:
 ![image](CircuitSingleAxis-min.jpg)
-Data from x and y axis:
+##### Data from x and y axis:
 ![image](CircuitDualAxis-min.jpg)
